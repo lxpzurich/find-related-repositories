@@ -16,8 +16,8 @@ Using a GitHub API key is optional but you won't get far with unauthenticated re
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stargazer-analyzer.git
-    cd stargazer-analyzer
+    git clone https://github.com/lxpzurich/find-related-repositories.git
+    cd find-related-repositories
     ```
 
 2. Install the required packages:
@@ -37,7 +37,7 @@ Run the script and follow the prompts:
 python find_related_repos.py
 ```
 
-You will be asked to input the repository name (e.g., DePayFi/widgets) and the number of users to fetch. The user default is 30.
+👉 You will be asked to enter the repository name (e.g., DePayFi/widgets) and the number of users to fetch. The user default is 30.
 
 ## Output Example
 
